@@ -1,0 +1,9 @@
+c:\users\programmer\documents\visual studio 2017\Projects\First\First\bin\Debug\netcoreapp1.1\First.deps.json
+c:\users\programmer\documents\visual studio 2017\Projects\First\First\bin\Debug\netcoreapp1.1\First.runtimeconfig.json
+c:\users\programmer\documents\visual studio 2017\Projects\First\First\bin\Debug\netcoreapp1.1\First.runtimeconfig.dev.json
+c:\users\programmer\documents\visual studio 2017\Projects\First\First\bin\Debug\netcoreapp1.1\First.dll
+c:\users\programmer\documents\visual studio 2017\Projects\First\First\bin\Debug\netcoreapp1.1\First.pdb
+c:\users\programmer\documents\visual studio 2017\Projects\First\First\obj\Debug\netcoreapp1.1\First.csprojResolveAssemblyReference.cache
+c:\users\programmer\documents\visual studio 2017\Projects\First\First\obj\Debug\netcoreapp1.1\First.AssemblyInfo.cs
+c:\users\programmer\documents\visual studio 2017\Projects\First\First\obj\Debug\netcoreapp1.1\First.dll
+c:\users\programmer\documents\visual studio 2017\Projects\First\First\obj\Debug\netcoreapp1.1\First.pdb
