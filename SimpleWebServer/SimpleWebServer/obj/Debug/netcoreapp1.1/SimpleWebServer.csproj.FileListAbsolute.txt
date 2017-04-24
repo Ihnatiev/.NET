@@ -1,0 +1,5 @@
+c:\users\programmer\documents\visual studio 2017\Projects\SimpleWebServer\SimpleWebServer\bin\Debug\netcoreapp1.1\SimpleWebServer.deps.json
+c:\users\programmer\documents\visual studio 2017\Projects\SimpleWebServer\SimpleWebServer\bin\Debug\netcoreapp1.1\SimpleWebServer.runtimeconfig.json
+c:\users\programmer\documents\visual studio 2017\Projects\SimpleWebServer\SimpleWebServer\bin\Debug\netcoreapp1.1\SimpleWebServer.runtimeconfig.dev.json
+c:\users\programmer\documents\visual studio 2017\Projects\SimpleWebServer\SimpleWebServer\obj\Debug\netcoreapp1.1\SimpleWebServer.csprojResolveAssemblyReference.cache
+c:\users\programmer\documents\visual studio 2017\Projects\SimpleWebServer\SimpleWebServer\obj\Debug\netcoreapp1.1\SimpleWebServer.AssemblyInfo.cs
